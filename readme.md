@@ -10,3 +10,4 @@ Cuando inicializamos un repositorio por primera vez, podemos establecer el nombr
 * **git config --global user.name** 'username' : Define el nombre del usuario.
 * **git config --global user.name** 'email' : Define el correo electronico para las confirmaciones.
 
+# Diego
