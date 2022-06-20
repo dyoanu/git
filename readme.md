@@ -13,4 +13,9 @@ Cuando queremos definir una configuracion de manera general, debemos utlilizar e
 * **git config --global user.name** 'email' : Define el correo electronico para las confirmaciones.
 
 
-* **Diego**
+## Gestion del proyecto
+
+Para sincronizar los cambios realizados en el proyecto, debemos tener en cuenta que se creamos en nuestra computadora el mismo utlizando el comando *git init*, vamos a tener que crearlo tambien en nuestro servidor remoto, como por ejemplo [GitHub](http://github.com).
+
+En el caso que ya exista un repositorio remoto, simplemente debemos descargar el historial de cambios del mismo, pero indistintamente de como hayamos empezado, lo principal es estar pendiente de los cambios realizados en el servidor de GIT.
+
